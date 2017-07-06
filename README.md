@@ -1,2 +1,2 @@
 # Algorithms in Python
-Popular algorithms implemented in python to improve coding skills
+Popular algorithms implemented in Python3 to improve coding skills
